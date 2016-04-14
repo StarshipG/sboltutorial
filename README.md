@@ -31,3 +31,6 @@ Further reading:
 
 Fork this repository, add / edit the documentation and send back a pull request.
 
+## License
+
+released under the Apache 2.0 [license](./LICENSE).
