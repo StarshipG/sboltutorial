@@ -1,9 +1,9 @@
 # SBOL Tutorial
-sbol tutorial(s) on readTheDocs.com
+![](https://readthedocs.org/projects/pip/badge/?version=latest)
+####SBOL tutorial(s) on [readTheDocs.org](http://rtd.org)
 
-The final tutorial page can be found here:
 
-[http://sboltutorial.readthedocs.org]
+The final tutorial page can be found here: http://sboltutorial.readthedocs.org
 
 It is set up such that any modifications to the github repository will automatically trigger recompilation of the html on readthedocs.org. 
 
