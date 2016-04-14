@@ -29,7 +29,7 @@ Further reading:
 
 ### Contribute!
 
-Fork this repository, add / edit the documentation and send back a pull request.
+Please fork this repository, add / edit the documentation and send back a pull request.
 
 ## License
 
