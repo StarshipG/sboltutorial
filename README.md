@@ -1,5 +1,7 @@
 # SBOL Tutorial
-sbol tutorial(s) on readTheDocs.com
+![](https://readthedocs.org/projects/pip/badge/?version=latest)
+####SBOL tutorial(s) on [readTheDocs.org](http://rtd.org)
+
 
 The final tutorial page can be found here:
 
