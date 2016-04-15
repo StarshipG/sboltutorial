@@ -3,9 +3,9 @@
 ####SBOL tutorial(s) on [readTheDocs.org](http://rtd.org)
 
 
-The final tutorial page can be found here: http://sboltutorial.readthedocs.org
+The actual tutorial page can be found here: http://sboltutorial.readthedocs.org
 
-It is set up such that any modifications to the github repository will automatically trigger recompilation of the html on readthedocs.org. 
+Any modifications to the github repository (master) will automatically trigger recompilation of the html on readthedocs.org.
 
 For local compiling, you need [Sphinx](http://sphinx-doc.org/). Once this is in place:
 
@@ -29,7 +29,7 @@ Further reading:
 
 ### Contribute!
 
-Fork this repository, add / edit the documentation and send back a pull request.
+Please fork this repository, add / edit the documentation and send back a pull request.
 
 ## License
 
